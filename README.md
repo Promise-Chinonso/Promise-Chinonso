@@ -15,7 +15,9 @@ AI Agents • Automation • Analytics • Data Engineering
 ### Tech
 
 **AI:** LLMs, RAG, AI Agents, Automation
+
 **Data:** SQL, Python, Power BI, Tableau
+
 **Data Engineering:** dbt, Airflow, Fivetran, Databricks, Snowflake, BigQuery
 
 
